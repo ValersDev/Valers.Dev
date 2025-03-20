@@ -26,10 +26,10 @@ const Hero = () => {
           transition={{ delay: 0.4, duration: 0.8 }}
         >
           <p className="text-gray-300">
-            "El código es poesía escrita con lógica,
+            "El código es el lenguaje del futuro,
           </p>
           <p className="text-gray-300">
-            cada línea una oportunidad para transformar el mundo."
+            y tú eres su autor."
           </p>
         </motion.div>
         

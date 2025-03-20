@@ -30,24 +30,22 @@ const About = () => {
           >
             <h3 className="text-2xl font-bold mb-4">¡Hola! Soy ValersDev</h3>
             <p className="text-gray-300 mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. 
-              Sed euismod, nisl vel ultricies lacinia, nisl nisl aliquam nisl, eget 
-              aliquam nisl nisl sit amet nisl. Sed euismod, nisl vel ultricies lacinia, 
-              nisl nisl aliquam nisl, eget aliquam nisl nisl sit amet nisl.
+            Mi nombre es Victor Valero, tengo 23 años y soy Ingeniero Informático. 
+            Actualmente trabajo como desarrollador de software a tiempo completo en <strong>ecoDeliver</strong>, 
+            donde disfruto aplicando mi pasión por la tecnología y aprendiendo constantemente nuevas herramientas y tecnologías.
             </p>
             <p className="text-gray-300 mb-4">
-              Sed euismod, nisl vel ultricies lacinia, nisl nisl aliquam nisl, eget 
-              aliquam nisl nisl sit amet nisl. Sed euismod, nisl vel ultricies lacinia, 
-              nisl nisl aliquam nisl, eget aliquam nisl nisl sit amet nisl.
+            Me considero un desarrollador creativo y entusiasta, siempre en busca de nuevos desafíos y oportunidades para seguir creciendo. 
+            Me apasiona crear soluciones elegantes y eficientes que aporten valor y mejoren la vida de las personas. 
+            Creo firmemente que la tecnología puede hacer del mundo un lugar mejor, y me encanta ser parte de ese cambio.
             </p>
             
             <div className="flex flex-wrap gap-3 mt-6">
-              <span className="bg-indigo-900/50 text-indigo-300 px-3 py-1 rounded-full text-sm">JavaScript</span>
+              <span className="bg-indigo-900/50 text-indigo-300 px-3 py-1 rounded-full text-sm">Python</span>
               <span className="bg-indigo-900/50 text-indigo-300 px-3 py-1 rounded-full text-sm">TypeScript</span>
-              <span className="bg-indigo-900/50 text-indigo-300 px-3 py-1 rounded-full text-sm">React</span>
-              <span className="bg-indigo-900/50 text-indigo-300 px-3 py-1 rounded-full text-sm">Node.js</span>
-              <span className="bg-indigo-900/50 text-indigo-300 px-3 py-1 rounded-full text-sm">Next.js</span>
-              <span className="bg-indigo-900/50 text-indigo-300 px-3 py-1 rounded-full text-sm">Tailwind CSS</span>
+              <span className="bg-indigo-900/50 text-indigo-300 px-3 py-1 rounded-full text-sm">Golang</span>
+              <span className="bg-indigo-900/50 text-indigo-300 px-3 py-1 rounded-full text-sm">Java</span>
+              <span className="bg-indigo-900/50 text-indigo-300 px-3 py-1 rounded-full text-sm">Dart</span>
             </div>
           </motion.div>
           
